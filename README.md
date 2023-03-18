@@ -36,7 +36,7 @@
 :man_technologist: About Me :
 <br>
 <div>
-  I am a Junior Frontend Developer &nbsp; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp; from Ukraine:ukraine:.
+  I learn on Frontend Developer  &nbsp; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp; from Ukraine:ukraine:.
 </div>
 <br>
 - 🔭 I am currently working on a course project <br>

@@ -41,7 +41,7 @@
 <br>
 - 🔭 I am currently working on a course project <br>
 - 🌱 I’m currently learning Web Developer <br>
-- 💼 I want to work in an IT company <br>
+- 💼 I want to become a freelancer <br>
 - 📫 How to reach me: &nbsp; <a href="https://t.me/Yevhenii_Popov">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
